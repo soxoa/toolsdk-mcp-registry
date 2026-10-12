@@ -2,7 +2,7 @@
   "type": "mcp-server",
   "name": "Postedly",
   "packageName": "@toolsdk-remote/postedly",
-  "description": "Quote available handwritten cards, open a private review link, and read owned order status.",
+  "description": "Physical mail MCP: letters, certified mail, postcards, fax, handwritten cards; review before payment",
   "url": "https://postedly.com/developers",
   "readme": "https://postedly.com/developers",
   "runtime": "node",
