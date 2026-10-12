@@ -14,11 +14,7 @@
       "url": "https://postedly.com/mcp/send",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "orders:read",
-          "quotes:write",
-          "checkout:write"
-        ]
+        "scopes": ["orders:read", "quotes:write", "checkout:write"]
       }
     }
   ]
